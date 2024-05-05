@@ -3,7 +3,6 @@
 # About Me:
 🔭 Back-End developer specializing in Django
 
-
 - 📫 How to reach me **hoosinkhalili66@gmail.com**
 
 # 💻 Skills:
